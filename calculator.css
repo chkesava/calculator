@@ -77,4 +77,5 @@ button{
     color: white;
     align-self: flex-end;
     padding: 1rem;
+    text-decoration: underline;
 }
